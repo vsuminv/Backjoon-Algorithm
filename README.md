@@ -6,7 +6,7 @@
 | :--: | :--: | :--: |
 | 0x00 | 오리엔테이션 (문제집 X) | |
 | 0x01 | 기초 코드 작성 요령 I (문제집 X) | |
-| 0x02 | [기초 코드 작성 요령 II](https://www.acmicpc.net/workbook/view/7306) | ![100%](https://progress-bar.dev/27/?scale=27&title=progress&width=500&color=babaca&suffix=/27) |
+| 0x02 | [기초 코드 작성 요령 II](../Questions/0x02.md) | ![100%](https://progress-bar.dev/27/?scale=27&title=progress&width=500&color=babaca&suffix=/27) |
 | 0x03 | [배열](workbook/0x03.md) | ![20%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 |
 
